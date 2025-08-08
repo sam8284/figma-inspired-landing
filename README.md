@@ -28,10 +28,9 @@ This project was built purely for practice and portfolio purposes, to showcase f
 - Organized, maintainable CSS
 
 
-## Live Demo (cahange)
+## Live Demo
 
-🔗 [View Live Site](www.google.com)
-(Change)
+🔗 [View Live Site](https://design-agency-basic.netlify.app/)
 
 
 ## Preview 
@@ -48,7 +47,7 @@ This project was built purely for practice and portfolio purposes, to showcase f
 ``` 
 / 
 ├── assets/ 
-│   └── desktop.png 
+│   └── desktop.PNG 
 │   └── mobile.png 
 │   └── tablet.png 
 ├── clients/ 
@@ -89,19 +88,19 @@ This project was built purely for practice and portfolio purposes, to showcase f
  
 
 
-## Usage (change)
-1. Clone the repository (change)
+## Usage
+1. Clone the repository
 
 ```bash
-git clone https://github.com/sam8284/recipe-finder.git
-cd recipe-finder
+git clone https://github.com/sam8284/figma-inspired-landing.git
 ```
 
-2. Navigate to the project directory(change)
+2. Navigate to the project directory
 
 ```bash
-cd recipe-finder
+cd figma-inspired-landing
 ```
+
 3. Run the App:
 - Open the index.html file in your browser or use a live server (like VS Code Live Server extension) for better development experience.
 
@@ -115,6 +114,8 @@ open index.html
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:saima.ansari8811@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:saima.ansari8811@gmail.com?subject=Hello&body=I%20found%20your%20project%20interesting!)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saima-ansari-developer/)
 
