@@ -37,7 +37,7 @@ This project was built purely for practice and portfolio purposes, to showcase f
 ## Preview 
 
 <p align="center">
-  <img src="./assets/desktop.png" alt="Desktop" width="600" style="vertical-align: top;margin-top: 10px;" hspace="10"/>
+  <img src="./assets/desktop.PNG" alt="Desktop" width="600" style="vertical-align: top;margin-top: 10px;" hspace="10"/>
   <img src="./assets/tablet.png" alt="Tablet" width="400" style="vertical-align: top;margin-top: 10px;" hspace="10"/>
   <img src="./assets/mobile.png" alt="Mobile" width="300" style="vertical-align: top;margin-top: 10px;" />
 </p>
