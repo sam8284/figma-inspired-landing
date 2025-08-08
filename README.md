@@ -113,8 +113,6 @@ open index.html
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:saima.ansari8811@gmail.com)
-
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:saima.ansari8811@gmail.com?subject=Hello&body=I%20found%20your%20project%20interesting!)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saima-ansari-developer/)
