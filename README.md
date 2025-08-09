@@ -30,7 +30,7 @@ This project was built purely for practice and portfolio purposes, to showcase f
 
 ## Live Demo
 
-🔗 [View Live Site](https://design-agency-basic.netlify.app/)
+🔗 [View Live Site](https://nexcent123.netlify.app/)
 
 
 ## Preview 
